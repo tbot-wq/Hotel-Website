@@ -1,0 +1,18 @@
+@media screen and (max-width:255px){
+    form input{
+        height: 100px;
+        width: 200px;
+    }
+}
+
+@media screen and (max-width:454px){
+    header{
+        height: 200px;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    nav ul{
+        flex-direction: column;
+    }
+}
